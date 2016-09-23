@@ -1,0 +1,15 @@
+---
+dotfiles_repo: "https://github.com/MikePadge/dotfiles"
+dotfiles_repo_accept_hostkey: no
+dotfiles_repo_local_destination: "~/Documents/dotfiles"
+
+dotfiles_home: "~"
+dotfiles_files:
+  - .aliases
+  - .bash_profile
+  - .gitconfig
+  - .gitignore
+  - .inputrc
+  - .tmux.conf
+  - .vim/
+  - .vimrc

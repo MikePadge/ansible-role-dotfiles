@@ -1,0 +1,12 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: mikepadge
+  description: Dotfile installation for UNIX/Linux.
+  company: "MarketReactor"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.0
+  galaxy_tags:
+    - development
+    - system
